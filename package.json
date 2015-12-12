@@ -1,6 +1,6 @@
 {
   "name": "tsts",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "ES6 template string tags",
   "main": "es5/index.js",
   "scripts": {
