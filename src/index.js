@@ -2,8 +2,8 @@ import tsml from 'tsml';
 import join from './join';
 import pre from './pre';
 
-export {
+export default {
   join,
   pre,
-  tsml as squash
+  squash: tsml
 };
